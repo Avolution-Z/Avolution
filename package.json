@@ -1,0 +1,19 @@
+{
+  "name": "avolution",
+  "version": "3.0.0",
+  "description": "Avolution Feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avolution-Z/Avolution.git"
+  },
+  "author": "Muhammad Quwais Saputra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Avolution-Z/Avolution/issues"
+  },
+  "homepage": "https://github.com/Avolution-Z/Avolution#readme"
+}
